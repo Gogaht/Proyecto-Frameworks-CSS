@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="201.20001mm"
+   height="201.20001mm"
+   viewBox="0 0 201.20001 201.20001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)"
+   sodipodi:docname="logoGGH.svg"
+   style="enable-background:new">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="210.00001 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 98.999998 : 1"
+       id="perspective56" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="439.15329"
+     inkscape:cy="559.40462"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="638"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-3.7990354,-3.3829508)" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.7990354,-3.3829508)">
+    <g
+       id="g33"
+       transform="matrix(2.1644446,0,0,2.1644446,-25.792024,-12.455434)">
+      <circle
+         r="41.55978"
+         cy="54.051998"
+         cx="60.138321"
+         id="path72"
+         style="fill:#00ff00;fill-opacity:0.47058824;stroke:#00ff00;stroke-width:6.88043642;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:55.04345183, 13.76086303, 6.88043148, 13.76086303;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g22">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:45.25384521px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.13134456"
+           x="31.104675"
+           y="61.483707"
+           id="text12"><tspan
+             sodipodi:role="line"
+             id="tspan10"
+             x="31.104675"
+             y="61.483707"
+             style="fill:#000080;stroke:#000080;stroke-width:1.13134456">G</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:45.25384521px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.13134456"
+           x="53.731415"
+           y="77.178955"
+           id="text16"><tspan
+             sodipodi:role="line"
+             id="tspan14"
+             x="53.731415"
+             y="77.178955"
+             style="fill:#000080;stroke:#000080;stroke-width:1.13134456">H</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:45.25384521px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.13134456"
+           x="40.859009"
+           y="67.853165"
+           id="text12-3"><tspan
+             sodipodi:role="line"
+             id="tspan10-6"
+             x="40.859009"
+             y="67.853165"
+             style="fill:#000080;stroke:#000080;stroke-width:1.13134456">G</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

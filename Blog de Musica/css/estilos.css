@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Solway&display=swap');
+
+html,body{
+  color:white;
+  background-image: url("../img/Fondo_Header.jpg");
+  font-family: 'Solway', serif; 
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
+
+.header-container{
+  background-color: black;
+  opacity: 0.75;
+  filter: alpha(opacity=75);
+}
+
+.logo-img {
+  width: 170px;
+  padding: 5%;
+  opacity: 1;
+}
+
+.redes-sociales{
+  margin-bottom: 50px;
+  height: 100%;
+  padding: 2%;
+}
+
+.btn-navbar {
+  background: mediumblue;
+}
+
+.contenedor-principal{
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  padding: 0.5%;
+} 
+
+.secciones{
+  margin: 1.5%;
+  background-color: mediumblue;
+}
+
+.articulos{
+  padding: 1%;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.articulo-img {
+  width: 90%;
+  height: 90%;
+}
+
+p, h1 {
+  padding: 0% 2%;
+}
+
+#buscar {
+  padding-top: 4%;
+}
