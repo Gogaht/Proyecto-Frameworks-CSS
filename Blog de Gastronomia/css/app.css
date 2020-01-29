@@ -1,0 +1,31 @@
+.row{
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+a{
+  color: black;
+}
+
+img{
+  align-content: center;
+  align-items: center;
+}
+
+.contenedor-principal {
+  background-image: url("../img/cocina.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.contenedor-contenido{
+  background-color: coral;
+  opacity: 0.9;
+  filter:alpha(opacity=90);
+}
+
+.input-group{
+  padding-top: 10px;
+}
